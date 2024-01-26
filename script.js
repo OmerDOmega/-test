@@ -124,7 +124,7 @@ document
 					blob 
 				); 
 			link.download = 
-				"survey_data.csv"; 
+				"survey_data.txt"; 
 			link.click(); 
 
 			// Reseting the form after certain 
